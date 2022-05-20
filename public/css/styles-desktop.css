@@ -1,0 +1,23 @@
+@media (min-width: 769px) {
+    .product-title {
+      display: none;
+    }
+    .product {
+      box-shadow: none;
+    }
+
+    .product:hover .product-title {
+    display: block;
+    }
+
+    .product:hover {
+    box-shadow: 0px 0px 10px rgb(100, 100, 100);
+    }
+
+    .footer-desktop {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px;
+    }
+}
