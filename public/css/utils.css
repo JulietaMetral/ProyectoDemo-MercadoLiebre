@@ -142,7 +142,17 @@ margin-bottom: 10px;
 .mb-20{
 margin-bottom: 20px;  
 } 
-    
+
+.mbt-20{
+margin-bottom: 20px;  
+margin-top: 20px;
+} 
+
+.mbt-50{
+margin-bottom: 50px;  
+margin-top: 50px;
+} 
+
 .mb-8{
 margin-bottom: 8px;  
 }     

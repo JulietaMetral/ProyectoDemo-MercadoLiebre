@@ -13,7 +13,7 @@ top: 0;
 width: 100%;
 z-index: 100;
 }
-  
+
 .font-yellow {
 color: #eac926;
 }
@@ -82,6 +82,10 @@ font-size: 20px;
 font-size: 18px;
 }
   
+.font-mmedium {
+font-size: 14px;
+}
+
 .font-medium {
 font-size: 16px;
 }
